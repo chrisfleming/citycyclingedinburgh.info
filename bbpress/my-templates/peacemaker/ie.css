@@ -1,0 +1,14 @@
+.sideentry {margin:0 0 0 15px; padding:0;}
+
+#left ul ul li {
+	list-style-type: none;
+	list-style-position: inside;
+	margin: 0 0 0 -15px;
+	}
+	
+#right ul ul li {
+	list-style-type: none;
+	list-style-position: inside;
+	margin: 0 0 0 -15px;
+	}
+

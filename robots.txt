@@ -1,0 +1,9 @@
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Synthesio
+Disallow: /
+
+User-agent: Synthesio Crawler release MonaLisa (contact at synthesio dot fr)
+Disallow: /
+
