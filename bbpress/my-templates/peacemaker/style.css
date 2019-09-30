@@ -741,20 +741,21 @@ fieldset p {
 
 #right img {padding: 15px 0 0 15px;}
 
-#right a{background: #F0F0F0; color:#374B7E; text-decoration:none; line-height: 24pt;}
+#right a{background: #F0F0F0; color:#374B7E; text-decoration:none;}
 #right a:hover{background: #fff;} 
 
 #right ul {
 	margin: 4px 12px 12px 12px;
 	padding:12px;
 	list-style-type: none;
+	line-height: 1.5em;
 	background: #fff;
 	}
 
 #right ul li {
 	margin: 0;
-	padding: 0;
-	line-height: 14pt;
+	padding: 5px 0px 5px 0px;
+	line-height: 1.5em;
 	list-style-type: none;
 	}
 
