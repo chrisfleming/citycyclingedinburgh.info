@@ -5,7 +5,15 @@
 
 <h2>About This Forum</h2>
 
-<p>CityCyclingEdinburgh was launched on the 27th of October 2009 as "an experiment".</p><p>
+<p>CityCyclingEdinburgh was launched on the 27th of October 2009 as "an experiment".</p>
+
+<p>
+IT’S TRUE!<br>
+
+CCE is 10 years old!<br>
+
+Well done to ALL posters<br>
+<p>
 
 It soon became <a href = "http://citycyclingedinburgh.info/bbpress/topic.php?id=1&replies=3#post-2137">useful and entertaining</a>. There are regular posters, people who add useful info occasionally and plenty more who drop by to watch.
 
