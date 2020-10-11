@@ -373,6 +373,8 @@ tags-input {
 
 #thread li ol li, #thread li ul li { padding: 0; }
 
+#thread img { width: 100%; }
+
 .threadauthor {
 	margin-left: -100px;
 	overflow: hidden;
