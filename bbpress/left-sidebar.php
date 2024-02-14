@@ -10,7 +10,10 @@
 <p>
 IT’S TRUE!<br>
 
-CCE is 10 years old!<br>
+CCE is <?php
+$time_difference = time() - strtotime("2009-10-27");
+print_r(round($time_difference/(60*60*24*365)));
+?>years old!<br>
 
 Well done to ALL posters<br>
 <p>
